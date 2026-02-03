@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" alt="Graphite Banner" width="100%" />
   
   # 📐 Graphite
   ### AI-Powered Engineering Drawing to 3D Visualizer
