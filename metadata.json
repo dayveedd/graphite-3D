@@ -1,0 +1,7 @@
+{
+  "name": "Graphite",
+  "description": "Convert 2D engineering sketches into interactive 3D models using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
