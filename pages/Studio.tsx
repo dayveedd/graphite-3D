@@ -331,7 +331,7 @@ export const Studio = () => {
             </Stage>
             <Grid infiniteGrid sectionColor="#94a3b8" cellColor="#cbd5e1" />
           </Suspense>
-          <OrbitControls makeDefault minDistance={2} maxDistance={300} />
+          <OrbitControls makeDefault minDistance={2} maxDistance={1000} />
         </Canvas>
 
         {isExporting && (

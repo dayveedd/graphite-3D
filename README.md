@@ -86,6 +86,24 @@ To use the Camera feature on mobile:
 
 ---
 
+## ☁️ Deployment
+
+### Deploy to Vercel
+
+The easiest way to deploy is using [Vercel](https://vercel.com):
+
+1. **Push your code** to a GitHub repository.
+2. Log in to Vercel and click **"Add New..."** → **"Project"**.
+3. Import your repository.
+4. **Crucial Step**: In the **Environment Variables** section, add:
+   - Key: `GEMINI_API_KEY`
+   - Value: `your_actual_api_key_starting_with_AI...`
+5. Click **Deploy**.
+
+Vercel will automatically detect the Vite config and build your application.
+
+---
+
 ## 🤝 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
